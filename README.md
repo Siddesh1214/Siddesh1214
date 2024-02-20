@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://siddesh-portfolio.netlify.app/](https://siddesh-portfolio.netlify.app/)
 
-- 📫 How to reach me **siddesshinde1214@gmail.com**
+- 📫 How to reach me **siddeshshinde1214@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
